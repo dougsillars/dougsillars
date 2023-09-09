@@ -14,9 +14,13 @@ I am a Developer Relations Lead.  What is developer relations?
 
 DevRels often do a lot of writing.  Blog posts, tutorials, documentation
 
-## Blogs.  Check out my [blog](https://speakofthedevrel.cloud).
+## Blogs.  
+
+I write a lot for the companies I work at.  You can also Check out my [personal blog](https://speakofthedevrel.cloud).
 
 ## Documentation
+
+Here I am "working on the docss"
 ![A physical manifistation of working on the docs](https://github.com/dougsillars/dougsillars/assets/1514288/4e3c8d9c-71e9-4b4d-a8c1-eaeba14dd844)
 
 Documentation is a process that is never complete. New features are added.  Changes are made to existing products.  Pages are re-written for clarity.  Good documentation is a core attribute to an excellent product.
