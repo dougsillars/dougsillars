@@ -1,4 +1,4 @@
-### Hi! Im Doug.
+### Hi! I'm Doug.
 
 My Github is an assortment of projects (completed, uncompleted and some never started) that have arisen in my head.  Many were for previous jobs...Sone were for myself.  And there's also my father-in-law's book.
 
