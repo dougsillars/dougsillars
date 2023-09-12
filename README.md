@@ -31,17 +31,19 @@ Documentation is a process that is never complete. New features are added.  Chan
 
 ## Tutorials
 
-Many docs also come with tutorials. "how do I do X with Y?"  Here - let's walk through the steps.  There are a bunch of tutorials mixed into my repositories here.
+Many docs also come with tutorials. "how do I do X with Y?"  Here - let's walk through the steps.  There are a bunch of tutorials mixed into my repositories here.  Many of my tutorials/sample apps arise from questions from users or customers who are struggling with a feature. We'll create a solution for them, but then share the solution so *everyone* can benefit from it.
 
 # Developer[0]:  
-Often your DevRel team is the first developer outside of the devteam to try out a product.  As a primary and regular user of the tool, I often have feedback on improvements.  I also often find bugs.  
+Often your DevRel team is the first developer outside of the devteam to try out a product.  As a primary and regular user of the tool, I often have feedback on improvements.  I also often find bugs, create issues and even fix them :D.  
 
+# Support: 
+While many think of developer relations as 'top of funnel' (meaning attracting people to the technology or tool), I spend a lot of time supporting questios from existing customers.  Fielding these questions with empathy and understanding is improtant - generally the developer has tried a way around the issue already.  Work with them, fix the issue - and then create bugs, update the docs, create a new tutorial. (As you can see, many of these processes are circular.)
 
+# Community:
 
+A community is more than "we've got a Slack (discord/forum/etc.)."  The people in your Slack are important, and shouldn't be ignored!  But it is important to not put up a fence and call it community.
 
-
-
-
+A community is all of your users, but also everyone else in your field who is searching for a solution. By talking with different organizations, other Slack channels, you can raise awareness of your community and how it works - and the Venn diagram two groups will begin to have a larger intersection.
 
 <!--
 **dougsillars/dougsillars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
